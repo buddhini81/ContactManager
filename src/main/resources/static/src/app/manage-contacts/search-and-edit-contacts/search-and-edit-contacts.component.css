@@ -1,0 +1,24 @@
+.orange-square-container {
+    text-align: center;
+    padding: 2.5% 2.5% 2.5% 2.5%;
+  }
+  
+  .orange-square {
+    text-align: left;
+    background-color:orange;
+    display: inline-block;
+    padding: 1% 1% 1% 1%;
+  }
+
+  .button-container {
+    padding: 1% 1% 1% 1%;
+  }
+
+  .button-table-row  {
+    display: table-row;
+  }
+
+  .button-table-cell {
+    padding: 1% 1% 1% 1%;
+    display: table-cell;
+  }
